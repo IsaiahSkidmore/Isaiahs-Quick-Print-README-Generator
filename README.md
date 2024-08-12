@@ -26,7 +26,7 @@ Before you start using the README generator, make sure you have Node.JS installe
 This project is licensed under the MIT license.
 
 ## Contributors
-IF you find a bug or have a geature request, please open an issue on our Github Issues Page. Provide as much detail as possible to help us understand and address the issue efficiently
+If you find a bug or have a feature request, please open an issue on our Github Issues Page. Provide as much detail as possible to help us understand and address the issue efficiently
 
 ## Contact
 Github username: IsaiahSkidmore  
