@@ -44,6 +44,14 @@ const generateMarkdown = (answers) => {
 ## Description
 ${answers.description}
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributors](#contributors)
+- [Contact](#contact)
+
+
 ## Installation
 \`\`\`
 ${answers.installation}
