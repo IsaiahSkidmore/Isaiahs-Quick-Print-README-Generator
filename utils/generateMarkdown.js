@@ -49,7 +49,7 @@ ${answers.description}
 - [Usage](#usage)
 - [License](#license)
 - [Contributors](#contributors)
-- [Contact](#contact)
+- [Questions](#questions)
 
 
 ## Installation
@@ -68,7 +68,7 @@ This project is licensed under the ${answers.license} license.
 ## Contributors
 ${answers.contribution}
 
-## Contact
+## Questions
 Github username: ${answers.github}  
 If you have any questions, please reach out to me at ${answers.email}.
 `;
