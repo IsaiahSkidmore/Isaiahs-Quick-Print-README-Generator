@@ -13,14 +13,24 @@ Isaiah's Quick Print README Generator is a command-line application that simplif
 
 
 ## Installation
+1. Clone the repository  
 ```
-First, run the application in your terminal with the command 'node index.js'. Then, answer the prompts in your terminal. Lastly, a fully formatted README.md file is generated in your project directory!
+git clone: git@github.com:IsaiahSkidmore/Isaiahs-Quick-Print-README-Generator.git
+```
+2. Run the command in your terminal
+```
+node index.js
+```
+3. Fill in your information
+```
+Answer all the prompts to have a fully formatted README.md file generated in your project directory!
 ```
 
 ## Usage
-```
+
 Before you start using the README generator, make sure you have Node.js installed on your local machine.
-```
+
+
 
 ## License
 This project is licensed under the MIT license.
